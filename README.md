@@ -19,7 +19,10 @@
   2. 程序运行过程中中止麻烦，需要回到代码编辑器使用ctrl+c强制停止。措施：后期增加监听全局中止键，比如按q停止程序
 
 
-## 程序需要的环境
-  python>=3.7 pyautogui time tkinter 
+## 程序需要的环境及package
+  python>=3.7
+  pyautogui
+  time
+  tkinter 
 
 ## 若新手用户遇到 No module named “***”问题，使用pip install *** 安装即可
