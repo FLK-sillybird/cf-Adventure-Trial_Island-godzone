@@ -12,13 +12,17 @@
 增加用户可交互界面，通过配置菜单，用户可自由修改点击位置，开枪时间等
 
 主界面：
+
 ![image](https://github.com/user-attachments/assets/cc9941c7-e6fe-416f-8892-6bcc3c2ec7ff)
 
 配置界面：
+
 ![image](https://github.com/user-attachments/assets/73c53309-e54e-411d-9ab3-65b3da83b5f5)
 
 以寒霜为例，修改配置参数
+
 ![image](https://github.com/user-attachments/assets/ab7c677b-12ca-4ed5-843e-b08518b84ffe)
+
 参数解释：
 1star -x ： 选择星级(一星)在屏幕x坐标， y ：选择星级(一星)在屏幕y坐标；
 2star -x ： 选择星级(二星)在屏幕x坐标， y ：选择星级(二星)在屏幕y坐标；
