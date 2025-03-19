@@ -24,22 +24,35 @@
 ![image](https://github.com/user-attachments/assets/ab7c677b-12ca-4ed5-843e-b08518b84ffe)
 
 参数解释：
+
 1star -x ： 选择星级(一星)在屏幕x坐标， y ：选择星级(一星)在屏幕y坐标；
+
 2star -x ： 选择星级(二星)在屏幕x坐标， y ：选择星级(二星)在屏幕y坐标；
+
 card -x ： 一星卡片在屏幕x坐标，y：一星卡片在屏幕y坐标；
+
 confirm -x ：确认键在屏幕x坐标， y：确认键在屏幕y坐标；
 
 one_star:    单位都是秒
+
 waitForDuration：一星boss召唤完等待时间
+
 cartridge_change_time： 枪械换弹时间
+
 time2kill：开枪持续时间
+
 waitTime：一星boss死亡等待召唤柱能重新召唤时间
 
 two_star:
+
 waitForDuration：二星boss召唤完等待时间
+
 cartridge_change_time： 枪械换弹时间
+
 time2kill：开枪持续时间
+
 waitTime：二星boss死亡等待召唤柱能重新召唤时间
+
 
 ## 代码主要框架
 不哔哔了，说了你也不懂
