@@ -1,0 +1,207 @@
+{
+    "寒霜": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 280,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 2,
+                "waitTime": 1
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 4,
+                "waitTime": 0
+            }
+        }
+    },
+    "暗杀": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 280,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 3,
+                "waitTime": 3
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 6,
+                "waitTime": 2
+            }
+        }
+    },
+    "大熊": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 410,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 2,
+                "waitTime": 3
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 4,
+                "waitTime": 3
+            }
+        }
+    },
+    "巨人": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 280,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 2,
+                "waitTime": 10
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 4,
+                "waitTime": 10
+            }
+        }
+    },
+    "禁区大熊": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 280,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 4,
+                "waitTime": 3
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 6,
+                "waitTime": 3
+            }
+        }
+    },
+    "机械魔影": {
+        "click_positions": {
+            "1star": {
+                "x": 255,
+                "y": 260
+            },
+            "2star": {
+                "x": 360,
+                "y": 260
+            },
+            "card": {
+                "x": 280,
+                "y": 390
+            },
+            "confirm": {
+                "x": 790,
+                "y": 570
+            }
+        },
+        "sleep_times": {
+            "one_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 3,
+                "waitTime": 0
+            },
+            "two_star": {
+                "waitForDuration": 3,
+                "cartridge_change_time": 1,
+                "time2kill": 4,
+                "waitTime": 0
+            }
+        }
+    }
+}
